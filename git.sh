@@ -1,4 +1,5 @@
 echo "# PravRep" >> README.md
+echo "I am Praveen"
 git init
 git add README.md
 git commit -m "first commit"
